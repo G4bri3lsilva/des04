@@ -1,0 +1,35 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 164px;
+padding-top: 30px;
+flex-wrap: wrap;
+
+}
+.cabecalho{
+display: flex;
+gap: 44px;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+font-size: 10px;
+
+}
+.redes{
+    display: flex;
+    gap: 27px;
+}
+.inicio{
+  color:#4044A0;
+  ;
+}
